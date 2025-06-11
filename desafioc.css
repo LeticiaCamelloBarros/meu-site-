@@ -1,0 +1,81 @@
+
+p{
+      color :rgb(54, 24, 24);
+      font-family: 'Times New Roman', Times, serif;
+      text-align:center;
+     
+}     
+body{
+        background-color: #f0e18aee;
+        border-bottom: 0cm;
+        
+}
+#hs{   
+      background-color:blanchedalmond ;
+      height:70px;
+      
+   }   
+
+.classical_name{
+      border : 0 ; 
+      text-align:center;
+      height: 5px;
+      text-align:center x;
+      color :rgb(179, 28, 96);
+      font-weight:bolder;
+      font-family:'Times New Roman', Times, serif;
+}   
+.shadow{
+      border : 0 ; 
+      text-align:right;
+      position:relative;
+      right: 650px;
+      height: 100px;
+      color :#3F3F3F;
+      font-weight:bolder;
+      font-family:'Times New Roman', Times, serif;
+       }                                     
+
+#conteiner_linha1{
+      justify-content:space-around;
+      align-items: start;
+      display:flex;
+      
+}     
+#conteiner_linha2{
+       justify-content:space-around;
+      align-items: start;
+      display:flex;
+}
+.linha1{
+     background-color:#d393df;
+     font-size:larger;   
+}
+
+.linha2{
+      text-decoration:underline;
+      font-style: italic;
+      color:rgb(34, 118, 118)
+}
+/* a contagem de númeração de cada item foi feita da esqueda para direita */
+#linha2_item1{
+     position: relative;
+     left: 10px ;
+     
+}
+
+#linha2_item2{
+    position : relative ;
+    left:10px
+}
+
+#linha2_item3{
+     position : relative ;
+     left: 10px;
+}
+#lang_button{
+        width: fit-content;
+        border-radius: 8px;
+        background-color:rgb(28, 159, 89);
+     
+}
